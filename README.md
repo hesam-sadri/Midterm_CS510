@@ -1,4 +1,8 @@
 # Midterm_CS510
+important: To run the program you need to download all 3 .R files in a same directory, then source run the Midterm_CS510.R file.
+
+The data will be downloaded from the internet (yahoo.finance), so you will need internet connection
+
 This Repository is crated to save the midterm project of CS510
 In this project we will use stock market Data and try to predict the future stuck prices, I wonder how many times we would predict successfully.
 I will use different time series models and a sliding window, based on the data in the range of window I will predict tommorrow's market direction. Later I will evaluate the correctness of my prediction by comparing it with the real value of the stock.
